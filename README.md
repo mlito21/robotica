@@ -1,4 +1,4 @@
-**Resumen del proyecto:**
+**PROYECTO STEPHEN HAWKING**
 Este proyecto busca integrar la robótica educativa como recurso didáctico en la formación universitaria de estudiantes de Pedagogía de la Informática, fomentando el desarrollo de competencias transversales tales como la resolución de problemas, el trabajo colaborativo, la comunicación y la creatividad. El enfoque metodológico se fundamenta en el modelo ADDIE, ampliamente utilizado para la planificación instruccional efectiva en contextos educativos (Branch, 2016).
 
 **1. Análisis**
